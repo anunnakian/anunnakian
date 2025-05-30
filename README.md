@@ -1,12 +1,12 @@
 👨‍💻 Java Professional Developer | Certified Kafka Developer by Confluent
 
-🥊 Kickboxing Beginner | 🏄‍♂️ Surfing Addict
+🥊 Kickboxing Beginner | 🏄‍♂️ Surfing Addict | 🎸 beginner player
 
 ✏️ Amateur Manga Artist (still in progress...) | 🌟 Dreaming to Create My Own Manga
 
 🌱 Passionate about Open Source Projects 🤩🤩🤩
 
-🦜 @LangChain4J Contributor
+🦜 @LangChain4J and @JHipsterLite Contributor
 
 💻 Ancient Maintainer of @Jhipster
 
